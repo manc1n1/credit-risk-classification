@@ -31,7 +31,7 @@
 2.  Change directories to `credit-risk-classification`
 
     ```sh
-    cd credit_risk_classification
+    cd credit-risk-classification
     ```
 
 3.  Run `credit-risk-classification.ipynb`
